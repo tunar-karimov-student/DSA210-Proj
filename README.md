@@ -19,7 +19,7 @@ In the first phase, we established the data pipeline and tested our core hypothe
     *   TK (Istanbul): A significant increase in streaming on rainy days ($p = 0.0017$). We rejected the Null Hypothesis.
     * LG (Beijing): No significant change in streaming habits regardless of weather ($p = 0.8666$). We failed to reject the Null Hypothesis.
 
-![EDA Charts](<img width="1484" height="1184" alt="2x2 Grid" src="https://github.com/user-attachments/assets/9bad9315-930a-4979-b376-01ad828439a8" />)
+<img src="https://github.com/user-attachments/assets/9bad9315-930a-4979-b376-01ad828439a8" alt="EDA Charts" width="1484" height="1184" />
 
 
 # Milestone 2: Machine Learning & Predictive Analysis
