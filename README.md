@@ -22,3 +22,6 @@ In the second phase, we moved from observation to prediction using Supervised Le
     *   Linear Regression: Identified general trends (e.g., weekends add ~28 mins for TK), but had low predictive power ($R^2 \approx 0.04$).
     *   Random Forest Regressor: Attempted to capture non-linear patterns but resulted in a negative $R^2$.
 *   Conclusion: The models confirmed our Milestone 1 findings. While weather is a statistically significant influence for TK, the high variance in human behavior makes exact minute-by-minute prediction impossible. Furthermore, the models' total failure on LG’s data validated that no underlying pattern exists to be learned.
+
+# AI Disclosure
+During the course of this project, I have utilized Google’s Gemini AI as a coding assistant. Specifically, Gemini was used to help troubleshoot errors during Spotify API deprecation. In addition, it was used to rewrite my Python code to use Open-Meteo weather data, and helped organize the final machine learning results for readability. 
